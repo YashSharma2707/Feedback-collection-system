@@ -6,7 +6,8 @@ The Feedback Management System is a web application that allows users to submit 
 
 ## Cloning Instructions
 
-```git clone https://github.com/exclusiveabhi/feedback-system.git
+```bash
+git clone https://github.com/exclusiveabhi/feedback-system.git
 ```
 
 ## Setup Instructions
