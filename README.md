@@ -1,7 +1,5 @@
 # Feedback Management System
 
-## Project Overview
-
 The Feedback Management System is a web application that allows users to submit feedback and view all feedback entries. The project is built with a Node.js backend using Express and TypeScript and a React frontend using TypeScript. The backend manages the feedback entries, and the frontend provides a user interface for submitting and viewing feedback.
 
 ## Cloning Instructions
