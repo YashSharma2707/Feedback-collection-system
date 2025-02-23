@@ -115,6 +115,6 @@ Send a POST request to `http://localhost:3000/feedback` with the following body:
 
 ```json
 {
-    "name": "Abhishek",
+    "name": "Yash Sharma",
     "feedback": "Great !"
 }
